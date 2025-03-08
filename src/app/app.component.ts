@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'cambio de titulo desde el componente';
+  title = 'myapp';
 
   numero = 0
 
